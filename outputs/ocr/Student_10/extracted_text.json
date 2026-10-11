@@ -1,0 +1,92 @@
+{
+  "source_pdf": "dataset\\Student_Pdf\\Student_10.pdf",
+  "model": "microsoft/trocr-base-handwritten",
+  "format": "one question and answer per line",
+  "notes": "Answers are grouped from OCR lines by detected question number. Wrapped lines are joined; repeated binary-mark noise is discarded. Review uncertain handwriting and debug overlays against the PDF.",
+  "answers": [
+    {
+      "question_number": 1,
+      "answer": "C"
+    },
+    {
+      "question_number": 2,
+      "answer": "1st."
+    },
+    {
+      "question_number": 3,
+      "answer": "D."
+    },
+    {
+      "question_number": 4,
+      "answer": "D s.n."
+    },
+    {
+      "question_number": 6,
+      "answer": "B."
+    },
+    {
+      "question_number": 7,
+      "answer": "B."
+    },
+    {
+      "question_number": 8,
+      "answer": "A"
+    },
+    {
+      "question_number": 9,
+      "answer": "P"
+    },
+    {
+      "question_number": 10,
+      "answer": "B."
+    },
+    {
+      "question_number": 11,
+      "answer": "C"
+    },
+    {
+      "question_number": 12,
+      "answer": "c B cr c."
+    },
+    {
+      "question_number": 16,
+      "answer": "C B"
+    },
+    {
+      "question_number": 18,
+      "answer": "c"
+    },
+    {
+      "question_number": 19,
+      "answer": "B."
+    },
+    {
+      "question_number": 21,
+      "answer": "Supervis ed learning . , is , type of machine lear ning that . dataset . predict . on table . variable \" It used to predict from input \" Cheat ure ) into output ( target ) variable ."
+    },
+    {
+      "question_number": 23,
+      "answer": "Piegressi on analysis . is Statisti cmethod that model pelat ionship between in dependent variable independent variable . In data science and use regress : on analysis to predict the numberical 10. value best on their variable ."
+    },
+    {
+      "question_number": 25,
+      "answer": "Two major applications of data . science . Hospitalities . Agriculture ."
+    },
+    {
+      "question_number": 26,
+      "answer": "( DIS ting his h abet wee . in the terms - 0"
+    },
+    {
+      "question_number": 31,
+      "answer": "( is number . ical of chuster . use that"
+    },
+    {
+      "question_number": 24,
+      "answer": "( Two . challenges . of Machi ne learning learning I - Supervise learning \" it's predi at on table . of variable . spoken 0 1 1 to find out the concept . of fear . e and output by 1 I target ... . 0 1 0 1 0 1 ( Clustering 2 Clustering is part . of unsupervised 0 1 0 1 featuring , A hat it learn as sub-group of \" variable . spoken I've like the K-mecans cigar it turn . 0 1 1 1 0 1 0 1 0 1 0 1 0 1 0 1 1 1 0 1 0 1 0 1 0 1 0 1 0 1 1 Know one go ent on three different SV M classifies by Fig.A. \" Fig. B. an d. Rig.c. - Fig.A. It close . to data cluster ; We can said little 1 1 fits not good . 1 1 \" Fig.B. The dat a cluster stay . inside linear boundaries I no good . 1 ( Fig.C. IN e data cluster far from Linear boundaries Good . \"y Fig.c bet ter than Fig . A and Fig.B. 28 ( Data pre-processing is tramforming data from \" raw data into data . that effect ency or str. venture data ."
+    },
+    {
+      "question_number": 29,
+      "answer": "( need nor maliization xis regui red in K. ANN because securest neigh bor is use . classification to identify the dataset . K. \" D.N. \" Can put nted the near est of vaucible . two or \" more cl usters ."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+1. C
+2. 1st.
+3. D.
+4. D s.n.
+6. B.
+7. B.
+8. A
+9. P
+10. B.
+11. C
+12. c B cr c.
+16. C B
+18. c
+19. B.
+21. Supervis ed learning . , is , type of machine lear ning that . dataset . predict . on table . variable " It used to predict from input " Cheat ure ) into output ( target ) variable .
+23. Piegressi on analysis . is Statisti cmethod that model pelat ionship between in dependent variable independent variable . In data science and use regress : on analysis to predict the numberical 10. value best on their variable .
+25. Two major applications of data . science . Hospitalities . Agriculture .
+26. ( DIS ting his h abet wee . in the terms - 0
+31. ( is number . ical of chuster . use that
+24. ( Two . challenges . of Machi ne learning learning I - Supervise learning " it's predi at on table . of variable . spoken 0 1 1 to find out the concept . of fear . e and output by 1 I target ... . 0 1 0 1 0 1 ( Clustering 2 Clustering is part . of unsupervised 0 1 0 1 featuring , A hat it learn as sub-group of " variable . spoken I've like the K-mecans cigar it turn . 0 1 1 1 0 1 0 1 0 1 0 1 0 1 0 1 1 1 0 1 0 1 0 1 0 1 0 1 0 1 1 Know one go ent on three different SV M classifies by Fig.A. " Fig. B. an d. Rig.c. - Fig.A. It close . to data cluster ; We can said little 1 1 fits not good . 1 1 " Fig.B. The dat a cluster stay . inside linear boundaries I no good . 1 ( Fig.C. IN e data cluster far from Linear boundaries Good . "y Fig.c bet ter than Fig . A and Fig.B. 28 ( Data pre-processing is tramforming data from " raw data into data . that effect ency or str. venture data .
+29. ( need nor maliization xis regui red in K. ANN because securest neigh bor is use . classification to identify the dataset . K. " D.N. " Can put nted the near est of vaucible . two or " more cl usters .
