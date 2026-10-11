@@ -1,0 +1,138 @@
+Data Science Examination
+Part I: Multiple Choice Questions (1 Mark Each)
+Instructions: Select the most appropriate answer from the given options.
+
+1. Which of the following is an assumption of Linear Regression?
+A. High multicollinearity
+B. Little or no autocorrelation
+C. Heteroscedasticity
+D. All of the mentioned
+
+2. In a perfectly fitted regression model, the sum of residuals (errors) should be:
+A. Maximum
+B. Minimum
+C. Zero
+D. Unknown
+
+3. Which distance metric is specifically used for categorical variables or strings of equal length?
+A. Hamming Distance
+B. Euclidean Distance
+C. Manhattan Distance
+D. Minkowski Distance
+
+4. Supervised learning can be split into which two main categories?
+A. Classification
+B. Regression
+C. Both A & B
+D. None of the mentioned
+
+5. Which of the following is an ensemble learning method based on decision trees?
+A. Support Vector Machine
+B. Random Forest
+C. K-Nearest Neighbors
+D. Logistic Regression
+
+6. The process of combining multiple classifiers to improve prediction (e.g., Bagging or Boosting) is called:
+A. Voting
+B. Clustering
+C. Dimensionality Reduction
+D. Feature Engineering
+
+7. In a Confusion Matrix, what is the value of the error for a perfect classifier?
+A. Zero
+B. One
+C. 0.5
+D. Depends on the dataset
+
+8. Which visualization tool is most effective for identifying correlations between two continuous variables?
+A. Bar Chart
+B. Box Plot
+C. Scatter Plot
+D. Histogram
+
+9. In a scatter plot, individual data observations are represented as:
+A. Points
+B. Lines
+C. Bars
+D. Areas
+
+10. Which measure of central tendency is most sensitive to outliers?
+A. Median
+B. Mean
+C. Mode
+D. Range
+
+11. In regression analysis, the output (dependent variable) is typically:
+A. A category
+B. A real number
+C. A boolean
+D. An image
+
+12. The process of identifying the most relevant variables to use in a model is known as:
+A. Data cleaning
+B. Column dropping
+C. Feature selection
+D. Normalization
+
+13. Which technique is used to predict a continuous numerical value?
+A. Classification
+B. Regression
+C. Clustering
+D. Association
+
+14. Analysis that involves data points collected or recorded at specific time intervals is called:
+A. Linear Analysis
+B. Binary Analysis
+C. Time Series
+D. Discrete Analysis
+
+15. Which of the following is actually a classification algorithm despite its name?
+A. Linear Regression
+B. Logistic Regression
+C. Multiple Regression
+D. Polynomial Regression
+
+16. Hyperparameters are best described as:
+A. Data labels
+B. Input features
+C. Parameters of the ML algorithm set before training
+D. The final weights of a model
+
+17. (True/False): Logistic regression is used for predicting continuous outcomes.
+A. True
+B. False
+
+18. In a confusion matrix, where are the "Correct Predictions" located?
+A. In the first row
+B. In the upper diagonal
+C. Along the main diagonal
+D. In the last column
+
+19. What is the formula for Precision?
+A. TP / (TP + FN)
+B. TP / (TP + FP)
+C. TN / (TN + FP)
+D. (TP + TN) / Total
+
+20. In Support Vector Machines (SVM), the data points closest to the hyperplane that help define the margin are called:
+A. Outliers
+B. Support vectors
+C. Clusters
+D. Centroids
+
+Part II: Short Answer Questions (2 Marks Each)
+21. Define Supervised Learning.
+22. Evaluation Case Study: A model (M1) achieves 99% accuracy on the training set but only 30% accuracy on the testing set. What is happening to this model?
+23. What is Regression Analysis?
+24. List and elucidate two major challenges in Machine Learning.
+25. List any two major real-world applications of Data Science.
+26. Distinguish between Structured and Semi-structured data.
+27. Describe methods used to detect and handle outliers in a dataset.
+28. What is Data Pre-processing?
+29. Why is Data Normalization required for the K-Nearest Neighbors (K-NN) algorithm?
+30. How are continuous attributes discretized? Give an example.
+31. What does the 'K' represent in the K-Means clustering algorithm?
+32. Name three common Hyperparameters in Machine Learning algorithms.
+33. Define Gradient Descent.
+34. Classifier Comparison: Compare three SVM classifiers based on their margins and boundaries.
+35. Explain how the Radial Basis Function (RBF) Kernel works in SVM.

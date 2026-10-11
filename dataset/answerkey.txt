@@ -1,0 +1,36 @@
+Question_Number,Type,Correct_Answer
+1,MCQ,B
+2,MCQ,C
+3,MCQ,A
+4,MCQ,C
+5,MCQ,B
+6,MCQ,A
+7,MCQ,A
+8,MCQ,C
+9,MCQ,A
+10,MCQ,B
+11,MCQ,B
+12,MCQ,C
+13,MCQ,B
+14,MCQ,C
+15,MCQ,B
+16,MCQ,C
+17,MCQ,B
+18,MCQ,C
+19,MCQ,B
+20,MCQ,B
+21,Short_Answer,"A type of ML where the model is trained on labeled data with known inputs and outputs."
+22,Short_Answer,"Overfitting; the model has memorized the training data but failed to generalize."
+23,Short_Answer,"A statistical process for estimating the relationships between a dependent variable and one or more independent variables."
+24,Short_Answer,"Data quality/missing values, overfitting/underfitting, data collection, or time consumption."
+25,Short_Answer,"Healthcare/disease prediction, Finance/fraud detection, E-commerce recommendation systems."
+26,Short_Answer,"Structured is organized in rows/columns (SQL, Excel); Semi-structured has some markers but isn't in a grid (JSON, XML, HTML)."
+27,Short_Answer,"Detection: Z-score, IQR, Scatter plots, Box plots. Handling: Trimming, Capping, or Imputation."
+28,Short_Answer,"The steps taken to clean and transform raw data into a format suitable for a machine learning model."
+29,Short_Answer,"K-NN is distance-based; features with larger scales will dominate the distance calculation if not normalized."
+30,Short_Answer,"By grouping values into bins or intervals, e.g., turning ages 1-100 into 'Child,' 'Adult,' 'Senior.'"
+31,Short_Answer,"The predefined number of clusters or groups the data will be divided into."
+32,Short_Answer,"K in K-NN, Learning Rate, Number of Estimators/Trees, Max Depth, or Batch Size."
+33,Short_Answer,"An optimization algorithm used to minimize the cost function by iteratively moving toward the steepest descent."
+34,Short_Answer,"Discussion on maximizing the margin and ensuring no data points fall within the 'gutter' or margin."
+35,Short_Answer,"It transforms data into a higher-dimensional space to find a non-linear decision boundary."
