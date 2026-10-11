@@ -1,0 +1,20 @@
+2. C
+3. B.
+4. A s. B.
+6. B. B D d 0 B 6
+13. B.
+14. C. IS. B.
+16. c
+17. B.
+18. c
+19. B. 20 c
+21. supervised lear ning , is a machine e learning algorithm which we give e " labeled data as input and expect output as pre diction we want . NY total 3
+26. Distinguish , between structure . all and semi-Struck un-sued into . structured data . are the well organized data , such as 3 csv file , excel file . - semi-structural d ata are the data which are half organized such as soon , html file .
+29. Data " pre-processing is the process for removing incomplete . incorrect and inaccurate data and replace ng missing . values . 25 list out any , 2 major application s of data science financial sector . 0 " Transportati on sector .
+34. comment on the performanceman ce of the classifrers . P.P.P.P.P.P.P. " P.P. " P.C. Good classification n. The distance between gutters . 0 is large and no data between gutters . P.2 : " Back class ification . The ere are data between 0 parts to its lead chossification . ion . The distance between gutters 0 P.3 is small .
+27. We find out on Butler , in the data by y sing Outlier . detection technique such as z-score and for .
+30. Contiguous ,att ributes are discre tized by converting to interval form . Example : 1, 5. 1, 1. 1 1 2 , 1.9. 2D. sp 1- 40 , 11. 20. 2 ) total 3 comment . on Model M. : . This model doesn 't have high accuracy " so it needs better training dataset . The training chatoset . " or more than one training dataset . 2h. Ellicidate , any 2 challenges , of Machine learning " Hard to find dataset to work on . ( Dataset " are expensive and confidential . " Required large data to train in order to get accuracy . 0 311. K in K-means algorithm is the pre-diethin ed cluster . 29 . Data nor maliaation is required in KENN became e after data is normal rzed it is easy to give k. point , so it will not over tilt ing or underfitting .
+23. Regression a nalysis " is the me that uses to analysis the output of regression .
+32. Name few hy per parliameters of machine bear ning algorithm .
+33. gradient . descent rs .
+35. Radical basis function Kern el works by usi ng margin vector to calculate distance margin . point andhy perplane . 0 1 1961 62 spoken 0 0 0 0 1961 62 a member of the United States Senator of the Senate of the Senate of the Senate of the 1961 62 1961 62 11th generation a bully that 6 References 1961 62 0 0 1955 1956 2 1 1961 62 1st century 0 0 1961 62 2 spilly 0 0 0 0 0 1 by life spokenly 1y 1/ 0 0 spousely 0 0 1961 62 0 0 1961 62 0 0 1961 62 1961 62 0 0 1961 62 1961 62 1961 62 1961 62 1961 02 23 October 23 1961 age 59 0 0 a b c d e f g. 0 0 1961 62 by life 1961 62 0 0 2nd century 0 0 1961 62 1961 62 0 2 spoken 0 0 0 0 1955 56 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1961 62 1934 35 1961 62 0 0 0 0 0 0 0 0 1961 62 1961 62 1961 62 0 0 1961 62 1953 54 0 0 in his home spokenly 0 1 0 0 1961 62 a member of the Government of Australia 0 0 0 0 1961 62 1961 62 0 0 1961 62 1961 62 1961 62 0 0 1961 62 0 1 girls 2nd leg 0 0 1961 62 1961 62 1961 62 0 0 1961 62 0 0 1961 62 0 0 1961 62 0 0 0 0 0 0 0 1 spying the 0 0 0 0 0- 0 0 0 0 0 0 to qualify 0 0 0 0 sight 2nd place 11 May 0 0 glendale spokenly 0 1 1955 56 1961 62 a member of the Government of the South African Government of Australia 1953 54 0 0 1961 62 0 0 0 0 a member of the House of Representatives of Representatives from the House of Representatives from the House of Representatives a small spoken and other 0 0 spy 1961 62 1961 62 1961 62 0 0 1961 62 0 0 1961 62 1961 62 4. 0 0 0 0 0 0 0 1
