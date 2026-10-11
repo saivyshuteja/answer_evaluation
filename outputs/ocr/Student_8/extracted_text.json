@@ -1,0 +1,32 @@
+{
+  "source_pdf": "dataset\\Student_Pdf\\Student_8.pdf",
+  "model": "microsoft/trocr-base-handwritten",
+  "format": "one question and answer per line",
+  "notes": "Answers are grouped from OCR lines by detected question number. Wrapped lines are joined; repeated binary-mark noise is discarded. Review uncertain handwriting and debug overlays against the PDF.",
+  "answers": [
+    {
+      "question_number": 19,
+      "answer": "\" D"
+    },
+    {
+      "question_number": 2,
+      "answer": "A"
+    },
+    {
+      "question_number": 3,
+      "answer": "B."
+    },
+    {
+      "question_number": 4,
+      "answer": "c sip c 67, Q A 71 ) A C 91I C 0 1 107 ) B. 0 190( B. 1 1 12n.c. 1 139 ( B. 1 0 1 14 1f.c. 1 1 157, C 0 1 0 1 c 17 \" A -g.challen . yles and full-the od 0 a 20\" D.75 U. ser specified parameter . Kits user spec \" If it's the passage to odell relations , spand dependencies 2 1 ) 1supervised learning to us about to-made I regulate \" and \" I'm put themselves . between the tablekeeper eplicutions that falsely , rule \" If you are found for a distinctive way . ' bested on the relationship of minimum she can't , those 11th care industry . 7s used . in Finance . 2 3 1 ( Data scrence . data , we can use outlier . in data 2 7 1 ( for statistical mentioned in a recovery statistical use of the tho'd \" SEATANC \" e based met - distance base d method \" Density , has based the method exist everything to a sect \" , methingal \" classification by-ased method - Colonialist wetwork neural return rk base . 0 1 . mostransfarm data into \" Neural ... . a man .m. This a phrase who re wetransforn . 2 81 ( Data pre up recressing its expense whebley competitor . \" at # that can be understand by Format that can be under turn : I'm I'm I'm I've favorable to be of variable to want to scale the value of 2 9 ) Bec. ause we similar lay 1961 62 good to win d coefficient . used to tree , min depth tree , \" , and # or her well as depth tree . and can be case of campaigns ."
+    },
+    {
+      "question_number": 32,
+      "answer": "\" \" I maxed epth tree , m In M.P. , , , , Eric tuxed and can structured structured data personnel , ( dstructed , structured data db.norm to structured data . 269 ) STRUCTURE tud's Csv. files , to transform to IT includes tin\" \" and need to # structure . semmix studies . \" JSON file , XML ... IT includes 0 1 . 2nd century 189 ( C 19. ) B. challenges of M.L."
+    },
+    {
+      "question_number": 24,
+      "answer": "2 challenging in huge dataset work with huge 0 0 0 1 0 0 5 w. 0 1 0 0 0 0 0 0"
+    }
+  ]
+}
