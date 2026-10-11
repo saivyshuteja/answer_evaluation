@@ -1,0 +1,23 @@
+﻿1. C
+2. [unclear: OCR reads '1st']
+3. D
+4. D
+6. B
+7. B
+8. A
+9. [unclear: OCR reads 'P']
+10. B
+11. C
+12. [unclear]
+16. C (uncertain; OCR also detected 'B')
+18. C
+19. B
+21. Supervised learning is a type of machine learning that uses labeled data to predict an output (target) variable from input features.
+23. Regression analysis is a statistical method that models the relationship between a dependent variable and one or more independent variables. It is used to predict a numerical value based on the variables.
+24. [Partly legible] Supervised learning requires labeled input and target output. The second challenge appears to be clustering, described as finding subgroups in unlabeled data (for example, K-means).
+25. Hospitality and agriculture.
+26. [unclear: answer is cut off / OCR is not readable]
+28. Data pre-processing is transforming raw data into a form that is efficient and suitable for analysis.
+29. Normalization is required for K-NN because it uses distances to identify the nearest data points. Scaling prevents variables with larger ranges from dominating the distance calculation.
+31. K represents the number of clusters.
+34. [Partly legible] The answer compares three SVM diagrams: A appears to fit poorly; B has data within linear boundaries and is described as not good; C is described as having data far from the linear boundaries and is considered better than A and B. Diagram labels/details need checking against the PDF.

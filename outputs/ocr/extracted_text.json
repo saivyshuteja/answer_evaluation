@@ -1,0 +1,30 @@
+﻿{
+  "source_pdf": "dataset\\Student_Pdf\\Student_10.pdf",
+  "format": "one question and answer per line",
+  "notes": "Refined from supplied OCR. [unclear] marks content that cannot be recovered confidently; absent question numbers had no readable answer in the supplied extraction.",
+  "answers": [
+    {"question_number":1,"answer":"C"},
+    {"question_number":2,"answer":"[unclear: OCR reads '1st']"},
+    {"question_number":3,"answer":"D"},
+    {"question_number":4,"answer":"D"},
+    {"question_number":6,"answer":"B"},
+    {"question_number":7,"answer":"B"},
+    {"question_number":8,"answer":"A"},
+    {"question_number":9,"answer":"[unclear: OCR reads 'P']"},
+    {"question_number":10,"answer":"B"},
+    {"question_number":11,"answer":"C"},
+    {"question_number":12,"answer":"[unclear]"},
+    {"question_number":16,"answer":"C (uncertain; OCR also detected 'B')"},
+    {"question_number":18,"answer":"C"},
+    {"question_number":19,"answer":"B"},
+    {"question_number":21,"answer":"Supervised learning is a type of machine learning that uses labeled data to predict an output (target) variable from input features."},
+    {"question_number":23,"answer":"Regression analysis is a statistical method that models the relationship between a dependent variable and one or more independent variables. It is used to predict a numerical value based on the variables."},
+    {"question_number":24,"answer":"[Partly legible] Supervised learning requires labeled input and target output. The second challenge appears to be clustering, described as finding subgroups in unlabeled data (for example, K-means)."},
+    {"question_number":25,"answer":"Hospitality and agriculture."},
+    {"question_number":26,"answer":"[unclear: answer is cut off / OCR is not readable]"},
+    {"question_number":28,"answer":"Data pre-processing is transforming raw data into a form that is efficient and suitable for analysis."},
+    {"question_number":29,"answer":"Normalization is required for K-NN because it uses distances to identify the nearest data points. Scaling prevents variables with larger ranges from dominating the distance calculation."},
+    {"question_number":31,"answer":"K represents the number of clusters."},
+    {"question_number":34,"answer":"[Partly legible] The answer compares three SVM diagrams: A appears to fit poorly; B has data within linear boundaries and is described as not good; C is described as having data far from the linear boundaries and is considered better than A and B. Diagram labels/details need checking against the PDF."}
+  ]
+}
