@@ -1,0 +1,48 @@
+{
+  "source_pdf": "dataset\\Student_Pdf\\Student_4.pdf",
+  "model": "microsoft/trocr-base-handwritten",
+  "format": "one question and answer per line",
+  "notes": "Answers are grouped from OCR lines by detected question number. Wrapped lines are joined; repeated binary-mark noise is discarded. Review uncertain handwriting and debug overlays against the PDF.",
+  "answers": [
+    {
+      "question_number": 2,
+      "answer": "A. with the first ever 1961 American film directorial director of the American spoken"
+    },
+    {
+      "question_number": 3,
+      "answer": "A. the exception of the establishment of the # even . 13.B. play . A e sure . always past past types J.S.B. the first ever ever most of personal S.B."
+    },
+    {
+      "question_number": 16,
+      "answer": "C."
+    },
+    {
+      "question_number": 6,
+      "answer": "l 1 7 .A"
+    },
+    {
+      "question_number": 7,
+      "answer": "A"
+    },
+    {
+      "question_number": 18,
+      "answer": "C"
+    },
+    {
+      "question_number": 8,
+      "answer": "8.8 G.A. 0 0 \" ... I G. B. ( 100. B. a member of the Government of the South African Government of South Africa which . 20 . B. I 50s . 1 1 P.P. 0/000 32 A nsurer cell 2 Question . 2 1 . Supervised tea rning is the machine later ning algorithm . in which of atarset is Tab al for the model so th at it have I has the target to predict . 1 22. Model \" Mr. \" I seem to be overfitted that's the reason 2 2 . that is so we all in Predict the data on the train set \" However the small facility direct , latest the \" nation's train which is not good for tea I time production . ' 2 3 . Regresso n analysis r s the process of choosing I and redo cring the feat ure in the old taset so that it I and I e clucing can increase the accuracy of the e mail model . \" Mo. The challenges , in machin exclaiming are to find the e data . to train the model , and to siknow which model is best for problem that we're solving . major applicatio as of data science Health-Care \" - with enough da to data screen . tist can use Machine learning to predict and prevent , the patient from attack or d effect any spin tom of some . serrows illness . also they can use machine tea rning to come . p with new core for 0. obrisesses every . Artificial Intellig ent : with mach ine learning we can create machine wh reh know an d sometime . thanks like human . structured data is the organ 12 ed , data that mostly in the form of sp read sheet , database as e , comma separated COSV ) . while Semi-Struck ored data . ' is a somewhat that store the data with the help of # what toify himself by xml or h. tml form . \" We can find away an Officer in the data by identity the data is out of the norm or ed e' each use formula Q , - 1.S.I.AR. to find lower b ounchary or Oz 4 1.5 ( 0.R. for of over 1, \" D.B.B.S upper boundary . 2 3 Data pre-processing is the method to clean the e , Clayton . must reduce the Angeles savy feature to re we can used it . # training the model . normalization to required in K -NN because it help"
+    },
+    {
+      "question_number": 29,
+      "answer": "Data to make a small eased mining . szedthe ratio e of the data . k-mean algorithm mits the number of clustering . 84. K.M. that the al gorithm should use ."
+    },
+    {
+      "question_number": 32,
+      "answer": "hyperpa rameters and weight , k rn.k-mean - Hyper number of mei ghbor in KMM ."
+    },
+    {
+      "question_number": 33,
+      "answer": "84 . The first one in good ces the line has large margin . an \" near the support vectors \" While the s economic and other is not as ' in bet weens the 1r ne we can see osome . data that is out the good . And , I the last one seem good but the Irene is close each so then . 3.3 . 1373 . 1961 62 1905 06 common business and business and asspectment to provide assessippi"
+    }
+  ]
+}
