@@ -1,0 +1,24 @@
+{
+  "source_pdf": "dataset\\Student_Pdf\\Student_3.pdf",
+  "model": "microsoft/trocr-base-handwritten",
+  "format": "one question and answer per line",
+  "notes": "Answers are grouped from OCR lines by detected question number. Wrapped lines are joined; repeated binary-mark noise is discarded. Review uncertain handwriting and debug overlays against the PDF.",
+  "answers": [
+    {
+      "question_number": 20,
+      "answer": "D totally - 3 pages supervised lear ning is an old gorithm that we use to classify the classify the data that con tains label ."
+    },
+    {
+      "question_number": 23,
+      "answer": "Regressi on analysis is a method al that we use for and then grow Ping the 1/ entry , and the e use for search data grouping the chat a , and identifying the data ."
+    },
+    {
+      "question_number": 25,
+      "answer": "two major applications of data science - p. obile Bank application and Netflix . \" Data pre-pr occessing to the process for collecting the data source . before goin . g to analysis . Dart Data nor maltization is required in K- NN because normalization help to scale a II the same data for easier to analysis so that k-NN easy for classi fication . 3 1 - K is a rang e for does the classify the data in k-means algorithm . mean that k-means a gorithm do the process based on K. name few hyper parameters of machine tear ning algorithms is the best hyperlin . e to make a fferent between classes . of based on mind the M2 model : s not yet the best solution yet since it has only so # accuracy the data set should use classification matrix \" to find the best to me . another modef them do one . Elucidate any two challenges of machine . - Linear regression \" Challenges of machine learning \" Logistic regression to find the outlier 2(6 . Structure d data is the data that c ontains in row . and column . semi-strustu rel clata . is th e data that we know like long wage . letters 1EFC a"
+    },
+    {
+      "question_number": 34,
+      "answer": "based on mind I thought the below was was I the first and has tare classify . clear but the middle clear . . \" but the middle . Melle , is not 3 0 0 0 0 1"
+    }
+  ]
+}
