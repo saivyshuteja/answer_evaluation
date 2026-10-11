@@ -1,0 +1,84 @@
+{
+  "source_pdf": "dataset\\Student_Pdf\\Student_2.pdf",
+  "model": "microsoft/trocr-base-handwritten",
+  "format": "one question and answer per line",
+  "notes": "Answers are grouped from OCR lines by detected question number. Wrapped lines are joined; repeated binary-mark noise is discarded. Review uncertain handwriting and debug overlays against the PDF.",
+  "answers": [
+    {
+      "question_number": 4,
+      "answer": "4 .A"
+    },
+    {
+      "question_number": 5,
+      "answer": "B. by B.C."
+    },
+    {
+      "question_number": 7,
+      "answer": "A"
+    },
+    {
+      "question_number": 8,
+      "answer": "C"
+    },
+    {
+      "question_number": 9,
+      "answer": "c 1 0 - B."
+    },
+    {
+      "question_number": 1,
+      "answer": "1. B. 12, C"
+    },
+    {
+      "question_number": 13,
+      "answer": "B."
+    },
+    {
+      "question_number": 14,
+      "answer": "MAC"
+    },
+    {
+      "question_number": 15,
+      "answer": "5a."
+    },
+    {
+      "question_number": 16,
+      "answer": "c"
+    },
+    {
+      "question_number": 17,
+      "answer": "A"
+    },
+    {
+      "question_number": 18,
+      "answer": "C"
+    },
+    {
+      "question_number": 19,
+      "answer": "B. Page ) ) \" 2/0. X 2th J Super vised learn lay 15-00 make the machine to do what the foury et it to do . For Example : economic issues . we have a labeled for every through signature . sign for the chine e ' will learn by knowing it label ."
+    },
+    {
+      "question_number": 23,
+      "answer": "\" Regress ion analysis is for prediction any for casting . there are 2 Violative , in it . which is independence . and dependent ce value . or we can call # . It's In pur one out put ."
+    },
+    {
+      "question_number": 29,
+      "answer": "\" data Normali zati on # is very wired KNN because . Is to Get the 6 Categories 0 output CO , I ) from KNN . 21 June 1 't will under scene one can Innavel the data - to scale ."
+    },
+    {
+      "question_number": 28,
+      "answer": "J Duver pre pruce 887my is the e many to Clean and make ur pleasure . Darton IP before using and it have lunny step . - Data cleansing - Darin trans form . - Darin 0"
+    },
+    {
+      "question_number": 33,
+      "answer": "grandient descent is an 80p.inzor on algorithm . which com money . U.S.X to train machine . learning care . Nervum Net work i 2/ The two ethallage in Ma chine learning canna . - It hard to make the machine . to learn what here want \" It to learn to take 2 1 2 1 2 1 2 2 2 2 2 2 3 backback the much time . Model M1. have 9y ol . of Accuracy which is give an hug best linear regimes sim that to predict . cans for the other 30 ys \" It really not good really not go for the tea ting data set ."
+    },
+    {
+      "question_number": 25,
+      "answer": "\" 58 . major Cappl screens of data science . - Linear regression - Logistic Regression"
+    },
+    {
+      "question_number": 3,
+      "answer": "5 of Reading in a Bonshire . transcription conferences to work # peace . by Finding the right . things . to suffer support one # making the good C lassification and also \" I'll like 2ndiisance . 0 0 0 0 0 0 0 1 0 1 0 0 1961 62 . 0 0 1961 62 1961 62 1961 62 0 0 0 0 0 0 0 0 1961 62 0 0 0 0 0 0 0 0 0 0 0 0"
+    }
+  ]
+}
