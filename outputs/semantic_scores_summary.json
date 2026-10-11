@@ -1,0 +1,64 @@
+{
+  "students": [
+    {
+      "student_id": "Student_1",
+      "total_score": 32,
+      "max_score": 50,
+      "report": "outputs\\ocr\\Student_1\\semantic_scores.json"
+    },
+    {
+      "student_id": "Student_2",
+      "total_score": 25.0,
+      "max_score": 50,
+      "report": "outputs\\ocr\\Student_2\\semantic_scores.json"
+    },
+    {
+      "student_id": "Student_3",
+      "total_score": 23,
+      "max_score": 50,
+      "report": "outputs\\ocr\\Student_3\\semantic_scores.json"
+    },
+    {
+      "student_id": "Student_4",
+      "total_score": 37,
+      "max_score": 50,
+      "report": "outputs\\ocr\\Student_4\\semantic_scores.json"
+    },
+    {
+      "student_id": "Student_5",
+      "total_score": 26,
+      "max_score": 50,
+      "report": "outputs\\ocr\\Student_5\\semantic_scores.json"
+    },
+    {
+      "student_id": "Student_6",
+      "total_score": 28,
+      "max_score": 50,
+      "report": "outputs\\ocr\\Student_6\\semantic_scores.json"
+    },
+    {
+      "student_id": "Student_7",
+      "total_score": 23,
+      "max_score": 50,
+      "report": "outputs\\ocr\\Student_7\\semantic_scores.json"
+    },
+    {
+      "student_id": "Student_8",
+      "total_score": 26,
+      "max_score": 50,
+      "report": "outputs\\ocr\\Student_8\\semantic_scores.json"
+    },
+    {
+      "student_id": "Student_9",
+      "total_score": 27,
+      "max_score": 50,
+      "report": "outputs\\ocr\\Student_9\\semantic_scores.json"
+    },
+    {
+      "student_id": "Student_10",
+      "total_score": 5,
+      "max_score": 50,
+      "report": "outputs\\ocr\\Student_10\\semantic_scores.json"
+    }
+  ]
+}
